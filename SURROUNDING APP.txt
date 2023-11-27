@@ -1,0 +1,30 @@
+SURROUNDING APP
+
+CORE BANKING SYSTEM : BM ONE
+1. create CIF
+2. registrasi nasabah
+3. verifikasi data
+4. deposito
+5. pindah buku
+6. kredit
+
+LENDING APP : MAC'S & MONA
+MAC'S user : AOP & ROP
+Mac's AOP --> mobile app. utk verifikasi AOP sudah mendatangi calon debitur apa belum.
+MAC'S ROP --> web based. dashboard utk monitoring AOP
+
+data yg telah di approve oleh AOP di MAC'S, maka akan ditransfer ke MONA : user PCO (pemenuhan kelengkapan dokumen)
+MONA : LF & NON LF --> web based. utk pemenuhan kelengkapan dokumen, cek slik
+MONA LF --> MANTAP AUTO LOAN, tidak ada step data entry, approval unit, langsung verkes (video call, step ini dr pihak LF bukan aop atau pco)
+
+
+INTEGRATION SYSTEM : SOA
+
+Perbedaan virtualisasi & container : perlu layer tambahan
+benefit container : bisa terpisah2 antara service A, B, dan C. 
+disadtvantage : conflict saat merge di git
+
+VERSION CONTROL : git lab
+CONTINUOUS INTEGRATION : bisa dibuat otomatis, pakai jenkins --> continuous build
+CONTINUOUS DELIVERY : continuous testing --> tim QA
+CONTINUOUS DEPLOYING : app harus sudah di testing QA sehingga image nya tidak berubah sama sekali

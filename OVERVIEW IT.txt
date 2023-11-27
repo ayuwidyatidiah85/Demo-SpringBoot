@@ -1,0 +1,24 @@
+OVERVIEW IT
+Bu Ika (Siti Nur Muslikah)
+
+MISI
+1. operational excellence : SLA (dilakukan scoring dr tim it ops)
+downtime 1% dalam 1thn --> SLA
+2. core banking 
+3. improve digital business --> improve digital straregy
+
+aslinya ada 100 app internal
+
+joint devel : vendor + mantap
+manage service : sewa
+
+DIVISI IT PLANNING & DEVELOPMENT
+- Tim It strategy & planning : kebutuhan, resource, dll yg dibutuhkan saat muncul masukan
+- Tim Busol : gathering req utk sistem, buat fsd
+- Tim IT integration & data management : provide data yg dibutuhkan tim development
+
+DIVISI IT OPS
+- Tim IT servicse desk 
+- Tim IT Integrations & data support
+
+
